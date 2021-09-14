@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/activity_admin_crear_empleado.xml" value="0.18" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/activity_admin_editar_eliminar_cargo.xml" value="0.22" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/activity_principal_menu.xml" value="0.22" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/activity_product_edit_erase.xml" value="0.25" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/admin_crear_cargo.xml" value="0.25" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/admin_crear_empleado.xml" value="0.25" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/admin_lista_empleados.xml" value="0.22" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/product_add.xml" value="0.25" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/product_main.xml" value="0.25" />
+        <entry key="..\:/DispositivosMoviles/app/src/main/res/layout/product_search.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
